@@ -21,13 +21,35 @@
             android:layout_marginBottom="10dp"
             app:cardCornerRadius="12dp"
             app:cardElevation="8dp"
+            android:id="@+id/degree_kabah">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/degree_kabah_info"
+                android:text="@string/ka_bah_position"
+                android:textSize="32sp"
+                android:layout_marginStart="4dp"
+                android:textColor="@color/black"
+                android:layout_gravity="center"/>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            app:cardBackgroundColor="@color/card_info"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp"
             android:id="@+id/azimuth_card">
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/azimuth_info"
                 android:text="@string/value_format_2"
-                android:textSize="38dp"
+                android:textSize="32sp"
                 android:layout_marginStart="4dp"
                 android:textColor="@color/black"
                 android:layout_gravity="center"/>
@@ -49,7 +71,7 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/degree_info"
                 android:text="@string/value_format_0"
-                android:textSize="38dp"
+                android:textSize="32sp"
                 android:layout_marginStart="4dp"
                 android:textColor="@color/black"
                 android:layout_gravity="center"/>

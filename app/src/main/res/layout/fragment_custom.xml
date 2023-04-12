@@ -16,10 +16,10 @@
             android:layout_height="wrap_content"
             android:id="@+id/label_custom_input"
             android:layout_gravity="center"
-            android:textSize="32dp"
+            android:textSize="32sp"
             android:textStyle="bold"
             android:textColor="@color/black"
-            android:text="Custom Input"/>
+            android:text="@string/custom_input"/>
 
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="match_parent"
@@ -30,7 +30,7 @@
                     android:id="@+id/inputLatitude"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Latitude"/>
+                    android:hint="@string/latitude_hint"/>
             </com.google.android.material.textfield.TextInputLayout>
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="match_parent"
@@ -41,24 +41,24 @@
                     android:id="@+id/inputLongitude"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Longitude"/>
+                    android:hint="@string/longitude_hint"/>
             </com.google.android.material.textfield.TextInputLayout>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/submit_custom"
-            android:text="Submit"/>
+            android:text="@string/submit"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/label_list"
-            android:text="Place Target Data List"
+            android:text="@string/place_target_data_list"
             android:textColor="@color/black"
             android:layout_marginTop="20dp"
             android:layout_gravity="center"
-            android:textSize="32dp"
+            android:textSize="32sp"
             android:textStyle="bold"/>
         <ScrollView
             android:layout_width="match_parent"
@@ -96,7 +96,7 @@
                                 android:id="@+id/label_kiblat"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Ka'bah"
+                                android:text="@string/ka_bah"
                                 android:textColor="@color/black"
                                 android:textSize="20sp"
                                 android:textStyle="bold" />
@@ -133,7 +133,7 @@
                                 android:id="@+id/label_piramid"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Great Pyramid of Giza"
+                                android:text="@string/great_pyramid_of_giza"
                                 android:textColor="@color/black"
                                 android:textSize="20sp"
                                 android:textStyle="bold" />

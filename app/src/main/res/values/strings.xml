@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Direction Finder</string>
+    <string name="app_name">Mecca Direction Finder</string>
     <string name="bottom_maps">Maps</string>
     <string name="bottom_compass">Compass</string>
     <string name="bottom_info">Info</string>
@@ -7,11 +7,41 @@
     <string name="bottom_custom">Custom</string>
     <string name="bottom_languages">Languages</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="value_format_0">%1$.0f</string>
-    <string name="value_format_2">%1$.2f</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="value_format_0" translatable="false">%1$.0f</string>
+    <string name="value_format_2" translatable="false">%1$.2f</string>
     <string name="degree_info">Degree: </string>
-    <string name="degree_symbol">°</string>
+    <string name="degree_symbol" translatable="false">°</string>
     <string name="azimuth_info">Azimuth: </string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="permission_alert">Location permission required</string>
+    <string name="permission_alert_message">This app cannot function without location permission. Please grant location permission or close the app.</string>
+    <string name="permission_alert_close">Close</string>
+    <string name="snackbar_getting_loc">Getting Location...</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">Degrees indicating the current location</string>
+    <string name="widget_id_label">Widget ID</string>
+    <string name="widget_update_label">Last updated</string>
+    <string name="widget_button_update">Update now</string>
+    <string name="value_label_widget">Degrees:</string>
+    <string name="my_location_label_widget">My Location:</string>
+    <string name="longitude_widget" translatable="false">Longitude:</string>
+    <string name="latitude_widget" translatable="false">Latitude:</string>
+    <string name="degree_compas_fragment">Degree</string>
+    <string name="custom_input">Custom Input</string>
+    <string name="latitude_hint" translatable="false">Latitude</string>
+    <string name="longitude_hint" translatable="false">Longitude</string>
+    <string name="submit">Submit</string>
+    <string name="place_target_data_list">Place Target Data List</string>
+    <string name="ka_bah">Ka\'bah</string>
+    <string name="great_pyramid_of_giza">Great Pyramid of Giza</string>
+    <string name="ka_bah_position">Ka\'bah position: 295,15°</string>
+    <string name="change_language">Change Language</string>
+    <string name="supported_languages">Supported Languages</string>
+    <string name="_1_indonesia_indonesia" translatable="false">1. Indonesia (Indonesia) 🇮🇩</string>
+    <string name="_2_english_united_states" translatable="false">2. English (United States) 🇺🇸</string>
+    <string name="_3_russia" translatable="false">3. Россия (Russia) 🇷🇺</string>
+    <string name="_4_arabic_saudi_arabia" translatable="false">4. Arabic (Saudi Arabia) 🇸🇦</string>
+    <string name="reset">Reset</string>
 </resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mecca Direction Finder</string>
+    <string name="bottom_maps">Peta</string>
+    <string name="bottom_compass">Kompas</string>
+    <string name="bottom_info">Info</string>
+    <string name="bottom_settings">Pengaturan</string>
+    <string name="bottom_custom">Kustom</string>
+    <string name="bottom_languages">Bahasa</string>
+    <string name="degree_info">Derajat</string>
+    <string name="title_activity_maps">Aktivitas Peta</string>
+    <string name="permission_alert">"Izin lokasi diperlukan "</string>
+    <string name="permission_alert_message">"Aplikasi ini tidak dapat berfungsi tanpa izin lokasi. Harap berikan izin lokasi atau tutup aplikasi. "</string>
+    <string name="permission_alert_close">Tutup</string>
+    <string name="snackbar_getting_loc">Mendapatkan Lokasi...</string>
+    <string name="appwidget_text">CONTOH</string>
+    <string name="add_widget">Widget aplikasi</string>
+    <string name="app_widget_description">Derajat yang menunjukkan lokasi saat ini</string>
+    <string name="widget_id_label">ID widget</string>
+    <string name="widget_update_label">"Terakhir diperbarui "</string>
+    <string name="widget_button_update">"Memperbarui sekarang "</string>
+    <string name="value_label_widget">Derajat:</string>
+    <string name="my_location_label_widget">Lokasi saya:</string>
+    <string name="degree_compas_fragment">Derajat</string>
+    <string name="custom_input">Masukan kustom</string>
+    <string name="submit">Kirim</string>
+    <string name="place_target_data_list">"List Daftar Data Target "</string>
+    <string name="ka_bah">Ka\'bah</string>
+    <string name="great_pyramid_of_giza">"Piramida Agung Giza "</string>
+    <string name="ka_bah_position">Posisi Ka\'bah: 295,15°</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="supported_languages">"Bahasa yang Didukung "</string>
+    <string name="reset">Mengatur ulang</string>
+    <string name="azimuth_info">"Azimuth: "</string>
+</resources>

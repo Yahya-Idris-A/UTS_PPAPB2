@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mecca Direction Finder</string>
+    <string name="reset">Перезагрузить</string>
+    <string name="supported_languages">Поддерживаемые языки</string>
+    <string name="change_language">Изменение языка</string>
+    <string name="ka_bah_position">Положение Каабы: 295,15°</string>
+    <string name="great_pyramid_of_giza">Великая пирамида Гизы</string>
+    <string name="ka_bah">Кааба</string>
+    <string name="submit">Представлять на рассмотрение</string>
+    <string name="custom_input">Пользовательский ввод</string>
+    <string name="degree_compas_fragment">Степень</string>
+    <string name="value_label_widget">Степень:</string>
+    <string name="degree_info">Степень:</string>
+    <string name="place_target_data_list">Разместить список целевых данных</string>
+    <string name="my_location_label_widget">Мое местонахождение:</string>
+    <string name="widget_button_update">Обновить сейчас</string>
+    <string name="widget_update_label">Последнее обновление</string>
+    <string name="widget_id_label">Идентификатор виджета</string>
+    <string name="app_widget_description">Градусы, указывающие текущее местоположение</string>
+    <string name="add_widget">Добавить виджет</string>
+    <string name="appwidget_text">ПРИМЕР</string>
+    <string name="snackbar_getting_loc">Получение местоположения...</string>
+    <string name="permission_alert_close">Закрывать</string>
+    <string name="permission_alert_message">Это приложение не может работать без разрешения местоположения. Предоставьте разрешение на определение местоположения или закройте приложение.</string>
+    <string name="permission_alert">Требуется разрешение на местоположение</string>
+    <string name="title_activity_maps">КартыАктивность</string>
+    <string name="bottom_maps">" Карты"</string>
+    <string name="bottom_compass">Компас</string>
+    <string name="bottom_info">Информация</string>
+    <string name="bottom_settings">Настройки</string>
+    <string name="bottom_custom">Обычай</string>
+    <string name="bottom_languages">Языки</string>
+    <string name="azimuth_info">"Azimuth: "</string>
+</resources>

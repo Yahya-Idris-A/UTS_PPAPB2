@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mecca Direction Finder</string>
+    <string name="bottom_maps">خرائط</string>
+    <string name="bottom_compass">بوصلة</string>
+    <string name="bottom_info">معلومات</string>
+    <string name="bottom_settings">إعدادات</string>
+    <string name="bottom_custom">مخصص</string>
+    <string name="bottom_languages">اللغات</string>
+    <string name="degree_info">درجة</string>
+    <string name="title_activity_maps">"نشاط الخرائط "</string>
+    <string name="permission_alert">مطلوب إذن الموقع</string>
+    <string name="permission_alert_message">لا يمكن لهذا التطبيق العمل بدون إذن الموقع. يرجى منح إذن الموقع أو إغلاق التطبيق.</string>
+    <string name="permission_alert_close">يغلق</string>
+    <string name="snackbar_getting_loc">الحصول على الموقع ...</string>
+    <string name="appwidget_text">مثال</string>
+    <string name="add_widget">إضافة القطعة</string>
+    <string name="app_widget_description">الدرجات التي تشير إلى الموقع الحالي</string>
+    <string name="widget_id_label">معرف القطعة</string>
+    <string name="widget_update_label">آخر تحديث</string>
+    <string name="widget_button_update">تحديث الان</string>
+    <string name="value_label_widget">درجة:</string>
+    <string name="my_location_label_widget">موقعي:</string>
+    <string name="degree_compas_fragment">درجة</string>
+    <string name="custom_input">إدخال مخصص</string>
+    <string name="submit">يُقدِّم</string>
+    <string name="place_target_data_list">ضع قائمة بيانات الهدف</string>
+    <string name="ka_bah">الكعبة</string>
+    <string name="great_pyramid_of_giza">الهرم الأكبر بالجيزة</string>
+    <string name="ka_bah_position">موقع الكعبة: 295،15 درجة</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="supported_languages">اللغات المعتمدة</string>
+    <string name="reset">إعادة ضبط</string>
+    <string name="azimuth_info">السمت:</string>
+</resources>
